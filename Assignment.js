@@ -1,13 +1,13 @@
 //feettoMile
 
-function feettoMile(feet){
+function feetToMile(feet){
 
    var mile=feet/5280;
    return mile;
    
 }
 //wood calculator
-function woodcalCulator (table,chair,bed){
+function woodCalculator (table,chair,bed){
 
 
    var tablecount=table*1
